@@ -3,7 +3,8 @@
 
 ## Intro:
 
-Yammer is a social network for communicating with coworkers. Individuals share documents, updates, and ideas by posting them in groups. Yammer is free to use indefinitely, but companies must pay license fees if they want access to administrative controls, including integration with user management systems like ActiveDirectory.
+Yammer is a social network for communicating with coworkers. Individuals share documents, updates, and ideas by posting them in groups. Yammer is free to use indefinitely, but companies must pay license fees if they want access to administrative controls, including integration with user management systems like ActiveDirectory. Recently they observed a dip in their user engagement so 
+they wish find the root cause of his issue.
 
 You can refer [here](https://mode.com/sql-tutorial/a-drop-in-user-engagement) for the case study and data or go to my [github](https://github.com/Vivek-S1n9h/SQL_Data_Analysis_Projects) to reference my queries.
 
@@ -73,4 +74,3 @@ This table name is benn.dimension_rollup_periods
 * **pst_end**:	The start time of the period in PST. For 2014-08-01, the end time is 2014-08-01. You can see how this is used in conjunction with pst_start to join events to this table in the query that produces the above chart.
 * **utc_start**:	The same as pst_start, but in UTC time.
 * **pst_start**:	The same as pst_end, but in UTC time.
-
