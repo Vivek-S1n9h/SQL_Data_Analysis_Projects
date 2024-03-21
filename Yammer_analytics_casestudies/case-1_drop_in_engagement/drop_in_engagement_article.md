@@ -73,3 +73,4 @@ This table name is benn.dimension_rollup_periods
 * **pst_end**:	The start time of the period in PST. For 2014-08-01, the end time is 2014-08-01. You can see how this is used in conjunction with pst_start to join events to this table in the query that produces the above chart.
 * **utc_start**:	The same as pst_start, but in UTC time.
 * **pst_start**:	The same as pst_end, but in UTC time.
+
