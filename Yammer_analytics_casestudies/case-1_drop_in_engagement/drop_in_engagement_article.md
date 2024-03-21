@@ -5,6 +5,8 @@
 
 Yammer is a social network for communicating with coworkers. Individuals share documents, updates, and ideas by posting them in groups. Yammer is free to use indefinitely, but companies must pay license fees if they want access to administrative controls, including integration with user management systems like ActiveDirectory.
 
+You can refer [here](https://mode.com/sql-tutorial/a-drop-in-user-engagement) for the case study and data or go to my [github](https://github.com/Vivek-S1n9h/SQL_Data_Analysis_Projects) to reference my queries.
+
 ## The problem
 
 **what caused the dip at the end of the chart shown below?**
