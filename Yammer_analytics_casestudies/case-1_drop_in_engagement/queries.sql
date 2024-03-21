@@ -6,7 +6,7 @@ SELECT DATE_TRUNC('week', e.occurred_at),
  GROUP BY 1
  ORDER BY 1
 
-/*To determine engagement rate by weekdays */
+/*engagement rate by weekdays */
 SELECT
   DISTINCT weekday,
   CASE
