@@ -56,19 +56,7 @@ This table name is tutorial.yammer_events
 | user_id:      | The ID of the user logging the event. Can be joined to user\_id in either of the other tables.  |
 | occurred_at: | The time the event occurred.   |
 | event_type:  | The general event type. There are two values in this dataset: "signup_flow", which refers to anything occuring  during the process of a user's authentication, and "engagement", which refers to general product usage after the user has signed up for the first time. |
-| event_name:  | The specific action the user took. Possible values include:
-                    create_user: User is added to Yammer's database during signup process
-                    enter_email: User begins the signup process by entering her email address
-                    enter_info: User enters her name and personal information during signup process
-                    complete_signup: User completes the entire signup/authentication process
-                    home_page: User loads the home page
-                    like_message: User likes another user's message
-                    login: User logs into Yammer
-                    search_autocomplete: User selects a search result from the autocomplete list
-                    search_run: User runs a search query and is taken to the search results page
-                    search_click_result_X: User clicks search result X on the results page, where X is a number from 1 through 10.
-                    send_message: User posts a message
-                    view_inbox: User views messages in her inbox |
+| event_name:  | The specific action the user took. Possible values include: create_user: User is added to Yammer's database during signup process, enter_email: User begins the signup process by entering her email address, enter_info: User enters her name and personal information during signup process, complete_signup: User completes the entire signup/authentication process, home_page: User loads the home page, like_message: User likes another user's message, login: User logs into Yammer, search_autocomplete: User selects a search result from the autocomplete list, search_run: User runs a search query and is taken to the search results page, search_click_result_X: User clicks search result X on the results page, where X is a number from 1 through 10, send_message: User posts a message, view_inbox: User views messages in her inbox |
 | location:    | The country from which the event was logged (collected through IP address).       |
 | device:      | The type of device used to log the  |
 
