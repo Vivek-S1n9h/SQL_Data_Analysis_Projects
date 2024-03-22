@@ -12,6 +12,7 @@ This analysis includes 5 important business questions posed by senior executives
 * SQL - MySQL
 
 ## Business Requests:
+Find all SQL files [here](/Ad_hoc_analysis_AtiQ_Mart/sql_queries/)
 
 ### Business Task 1:
 **High-value Products with heavy discounts:**
