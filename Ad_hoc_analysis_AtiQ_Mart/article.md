@@ -1,4 +1,15 @@
-# Codebasics Project Challenge 9
+# Ad-Hoc analysis of AtliQ Mart
+
+This is one of the part of the full codebasics resume Challenge #9: Analyse Promotions and Provide Tangible Insights to Sales Director
+
+## Intro:
+
+AtliQ Mart is a retail giant with over 50 supermarkets in the southern region of India. All their 50 stores ran a massive promotion during the Diwali 2023 and Sankranti 2024 (festive time in India) on their AtliQ branded products. Now the sales director wants to understand which promotions did well and which did not so that they can make informed decisions for their next promotional period.
+
+This analysis includes 5 important business questions posed by senior executives, requiring SQL-based report generation.
+
+## Tools Used:
+* SQL - MySQL
 
 ## Business Requests:
 
